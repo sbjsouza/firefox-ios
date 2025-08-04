@@ -29,7 +29,7 @@
 "About.safariBullet1" = "拦截跟踪器，加强隐私";
 
 /* Label on About screen */
-"About.safariBullet2" = "拦截网络字体，减少网页大小";
+"About.safariBullet2" = "拦截网络字体，缩减网页大小";
 
 /* Label on About screen */
 "About.safariBulletHeader" = "用作 Safari 浏览器扩展，可以：";
@@ -276,9 +276,6 @@
 
 /* Dark theme option in settings menu */
 "Settings.darkTheme" = "深色";
-
-/* Description associated with the Crash Reports toggle on settings screen */
-"Settings.detailTextCrashReports" = "我们可借助崩溃报告来诊断和修复浏览器的问题。";
 
 /* Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar) */
 "Settings.detailTextSearchSuggestion" = "%@ 会将您在地址栏中输入的内容发送至您的搜索引擎。";
