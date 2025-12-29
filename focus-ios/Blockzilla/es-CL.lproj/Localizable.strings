@@ -277,14 +277,11 @@
 /* Dark theme option in settings menu */
 "Settings.darkTheme" = "Oscuro";
 
-/* Description associated with the Crash Reports toggle on settings screen */
-"Settings.detailTextCrashReports" = "Los reportes de fallos nos permiten diagnosticar y solucionar problemas con el navegador.";
-
 /* Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar) */
 "Settings.detailTextSearchSuggestion" = "%@ enviará lo que escribas en la barra de direcciones a tu motor de búsqueda.";
 
 /* Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar) */
-"Settings.detailTextSendUsageData" = "Mozilla se esfuerza por recolectar solo lo que necesitama para proporcionar y mejorar %@ para todos.";
+"Settings.detailTextSendUsageData" = "Mozilla se esfuerza por recolectar solo lo que necesita para proporcionar y mejorar %@ para todos.";
 
 /* Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar) */
 "Settings.detailTextStudies" = "%@ podría instalar y realizar experimentos de vez en cuando.";
